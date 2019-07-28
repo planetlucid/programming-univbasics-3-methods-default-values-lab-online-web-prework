@@ -5,4 +5,4 @@ def meal_choice("cabbage","lettuce", protein = "meat")
   puts "A plate of #{protein} with #{cabbage} and #{lettuce}."
 end
 
-meal_choice(protein, cabbage, lettuce)
+meal_choice("protein","cabbage","lettuce")
